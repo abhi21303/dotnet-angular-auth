@@ -4,6 +4,19 @@
     "title": "DotNetWebApi",
     "version": "1.0"
   },
-  "paths": { },
+  "paths": {
+    "/Test/hello": {
+      "get": {
+        "tags": [
+          "Test"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
   "components": { }
 }

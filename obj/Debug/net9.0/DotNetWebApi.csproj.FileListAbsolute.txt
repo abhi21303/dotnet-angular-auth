@@ -173,3 +173,4 @@ C:\Users\Admin\OneDrive\Desktop\LoginWithJwt\DotNetWebApi\obj\Debug\net9.0\refin
 C:\Users\Admin\OneDrive\Desktop\LoginWithJwt\DotNetWebApi\obj\Debug\net9.0\DotNetWebApi.pdb
 C:\Users\Admin\OneDrive\Desktop\LoginWithJwt\DotNetWebApi\obj\Debug\net9.0\DotNetWebApi.genruntimeconfig.cache
 C:\Users\Admin\OneDrive\Desktop\LoginWithJwt\DotNetWebApi\obj\Debug\net9.0\ref\DotNetWebApi.dll
+C:\Users\Admin\OneDrive\Desktop\LoginWithJwt\DotNetWebApi\obj\Debug\net9.0\DotNetWebApi.sourcelink.json
