@@ -8,8 +8,8 @@
 *.sln.docstates
 
 # Build results
-[Bb]in/
-[Oo]bj/
+bin/
+obj/
 
 # NuGet packages
 *.nupkg
