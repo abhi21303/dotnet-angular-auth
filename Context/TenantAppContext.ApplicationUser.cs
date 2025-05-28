@@ -1,4 +1,4 @@
-﻿using DotNetWebApi.Entitie;
+﻿using DotNetWebApi.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace DotNetWebApi.Context
@@ -10,7 +10,8 @@ namespace DotNetWebApi.Context
         {
             modelBuilder.Entity<ApplicationUser>(entity =>
             {
-                entity.ToTable("AspNetUsers");
+                entity
+                    .ToTable("AspNetUsers");
             });
         }
     }

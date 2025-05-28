@@ -1,4 +1,4 @@
-﻿using DotNetWebApi.Entitie;
+﻿using DotNetWebApi.Entities;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
@@ -13,7 +13,7 @@ namespace DotNetWebApi.Context
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            // Apply partial configurations
+            base.OnModelCreating(modelBuilder);
             OnModelCreatingPartial(modelBuilder);
         }
 
