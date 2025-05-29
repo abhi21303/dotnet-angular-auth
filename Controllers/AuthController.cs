@@ -23,7 +23,6 @@ namespace DotNetWebApi.Controllers
             {
                 return BadRequest(ModelState);
             }
-
             var user = new ApplicationUser
             {
                 UserName = model.Email,
@@ -32,16 +31,40 @@ namespace DotNetWebApi.Controllers
                 LastName = model.LastName,
                 Created_DateTime = DateTime.UtcNow
             };
-
             var result = await _userManager.CreateAsync(user, model.Password);
-
-
             if (result.Succeeded)
             {
                 return Ok(new { Message = "User registered successfully!" });
             }
-
             return BadRequest(new { Errors = result.Errors.Select(e => e.Description) });
+        }
+        
+        [HttpPost("login")]
+        public async Task<IActionResult> Login([FromBody] LoginModel model)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+            var user = await _userManager.FindByNameAsync(model.Email);
+            if (user == null)
+            {
+                return Unauthorized(new { Message = "Invalid credentials." });
+            }
+            var result = await _signInManager.PasswordSignInAsync(model.Email, model.Password, true, true);
+            if (result.Succeeded)
+            {
+                return Ok(new { Message = "Login successful!" });
+            }
+            else if (result.IsLockedOut)
+            {
+                return BadRequest(new { Message = "User account is locked." });
+            }
+            else if (result.IsNotAllowed)
+            {
+                return BadRequest(new { Message = "User is not allowed to login." });
+            }
+            return Unauthorized(new { Message = "Invalid login attempt." });
         }
     }
 }
