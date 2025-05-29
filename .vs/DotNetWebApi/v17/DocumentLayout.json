@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\LoginWithJwt\\DotNetWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|c:\\users\\admin\\onedrive\\desktop\\loginwithjwt\\dotnetwebapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|c:\\users\\admin\\onedrive\\desktop\\loginwithjwt\\dotnetwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|c:\\users\\admin\\onedrive\\desktop\\loginwithjwt\\dotnetwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|c:\\users\\admin\\onedrive\\desktop\\loginwithjwt\\dotnetwebapi\\entities\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|solutionrelative:entities\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|c:\\users\\admin\\onedrive\\desktop\\loginwithjwt\\dotnetwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|c:\\users\\admin\\onedrive\\desktop\\loginwithjwt\\dotnetwebapi\\entities\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|solutionrelative:entities\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|c:\\users\\admin\\onedrive\\desktop\\loginwithjwt\\dotnetwebapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|c:\\users\\admin\\onedrive\\desktop\\loginwithjwt\\dotnetwebapi\\context\\tenantappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|solutionrelative:context\\tenantappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|c:\\users\\admin\\onedrive\\desktop\\loginwithjwt\\dotnetwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|c:\\users\\admin\\onedrive\\desktop\\loginwithjwt\\dotnetwebapi\\context\\tenantappcontext.applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +35,16 @@
       "RelativeMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|solutionrelative:entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|c:\\users\\admin\\onedrive\\desktop\\loginwithjwt\\dotnetwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|c:\\users\\admin\\onedrive\\desktop\\loginwithjwt\\dotnetwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|c:\\users\\admin\\onedrive\\desktop\\loginwithjwt\\dotnetwebapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|c:\\users\\admin\\onedrive\\desktop\\loginwithjwt\\dotnetwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F434D7D6-56C4-4741-98D6-141AC0944FFB}|DotNetWebApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +54,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\LoginWithJwt\\DotNetWebApi\\Entities\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Entities\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\LoginWithJwt\\DotNetWebApi\\Entities\\LoginModel.cs",
+              "RelativeToolTip": "Entities\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:44:29.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\LoginWithJwt\\DotNetWebApi\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\LoginWithJwt\\DotNetWebApi\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-28T17:34:13.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\LoginWithJwt\\DotNetWebApi\\Entities\\Register.cs",
+              "RelativeDocumentMoniker": "Entities\\Register.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\LoginWithJwt\\DotNetWebApi\\Entities\\Register.cs",
+              "RelativeToolTip": "Entities\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:53:04.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\LoginWithJwt\\DotNetWebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\LoginWithJwt\\DotNetWebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwCkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:49:07.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "TestController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\LoginWithJwt\\DotNetWebApi\\Controllers\\TestController.cs",
               "RelativeDocumentMoniker": "Controllers\\TestController.cs",
@@ -50,48 +118,47 @@
               "RelativeToolTip": "Controllers\\TestController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T16:00:59.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T16:00:59.546Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\LoginWithJwt\\DotNetWebApi\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
               "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\LoginWithJwt\\DotNetWebApi\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-18T11:15:06.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\LoginWithJwt\\DotNetWebApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\LoginWithJwt\\DotNetWebApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAwwE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T10:36:17.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "TenantAppContext.ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\LoginWithJwt\\DotNetWebApi\\Context\\TenantAppContext.ApplicationUser.cs",
               "RelativeDocumentMoniker": "Context\\TenantAppContext.ApplicationUser.cs",
               "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\LoginWithJwt\\DotNetWebApi\\Context\\TenantAppContext.ApplicationUser.cs",
               "RelativeToolTip": "Context\\TenantAppContext.ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T11:57:54.388Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\LoginWithJwt\\DotNetWebApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -103,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TenantAppContext.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\LoginWithJwt\\DotNetWebApi\\Context\\TenantAppContext.cs",
               "RelativeDocumentMoniker": "Context\\TenantAppContext.cs",
@@ -115,13 +182,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\LoginWithJwt\\DotNetWebApi\\Entities\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Entities\\ApplicationUser.cs",
               "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\LoginWithJwt\\DotNetWebApi\\Entities\\ApplicationUser.cs",
               "RelativeToolTip": "Entities\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T10:38:06.479Z"
             }
